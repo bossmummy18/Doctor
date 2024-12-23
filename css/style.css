@@ -1,0 +1,13 @@
+#contact div{
+    display: grid;
+    grid-template-columns: 32px 100%;
+    gap: 10px;
+}
+
+#contact img{
+    height: 32px;
+}
+
+#contact p{
+    margin-bottom: 0px;
+}
